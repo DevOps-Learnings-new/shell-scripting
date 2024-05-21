@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "checking branching tech"
+echo "print SLA"
+echo " Welcome to the devOps test cases"
